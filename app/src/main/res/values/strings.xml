@@ -1,0 +1,29 @@
+<resources>
+    <string name="app_name">Megadv</string>
+    <string name="reportTitle">Report delle attività</string>
+    <string name="icon">icona</string>
+    <string name="clock">ora</string>
+    <string name="today">Oggi</string>
+    <string name="yesterday">Ieri</string>
+    <string name="noConnectionErrorMessage">Impossibile connettersi al server. Controlla la tua connessione</string>
+    <string name="loginError">L\'email o la password inserite non sono corrette</string>
+    <string name="adsTitle">Inserzioni pubblicitarie</string>
+    <string name="impressionsToday">Impressions: %d (%d oggi)</string>
+    <string name="lastImpression">Ultima impression: %s</string>
+    <string name="megadvURL">http://www.megadv.it</string>
+    <string name="likesToday"><b>Mi piace ottenuti</b>: %d (%d oggi)</string>
+    <string name="lastLike">Ultimo like: %s</string>
+    <string name="facebookTitle">Pagine Facebook</string>
+    <string name="openDrawer">Apri</string>
+    <string name="closeDrawer">Chiudi</string>
+    <string name="logout">Disconnettiti</string>
+    <string name="login">Accedi</string>
+    <string name="signUp">Nuovo su Megadv? Registrati ora</string>
+    <string name="email">E-mail</string>
+    <string name="password">Password</string>
+    <string name="retry">Riprova</string>
+    <string name="firstLoginMessage">Hai appena ricevuto %d crediti per aver effettuato l\'accesso giornaliero</string>
+    <string name="never">mai</string>
+    <string name="no_ads">Non è presente alcun annuncio. Visita www.megadv.it per crearne uno</string>
+    <string name="no_facebook">Non è presente alcuna pagina Facebook. Visita www.megadv.it per pubblicizzarne una</string>
+</resources>

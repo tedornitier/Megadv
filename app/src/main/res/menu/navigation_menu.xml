@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <item android:id="@+id/navigationItemReport"
+        android:icon="@drawable/file"
+        android:title="@string/reportTitle"/>
+    <item android:id="@+id/navigationItemAds"
+        android:icon="@drawable/megafono"
+        android:title="@string/adsTitle"/>
+    <item android:id="@+id/navigationItemFacebook"
+        android:icon="@drawable/facebook"
+        android:title="@string/facebookTitle"/>
+    <item android:id="@+id/navigationItemLogout"
+        android:icon="@drawable/logout"
+        android:title="@string/logout"/>
+
+</menu>

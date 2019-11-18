@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">@color/colorPrimaryDark</color>
+    <color name="colorPrimaryDark">#054a7b</color>
+    <color name="colorAccent">#33c0e7</color>
+
+    <color name="lime">#91c854</color>
+    <color name="yellow">#ffd66a</color>
+    <color name="red">#ed5466</color>
+    <color name="grey">#d4d7d8</color>
+    <color name="blue">#00b1e1</color>
+
+    <color name="light_blue">#A0CFDF</color>
+
+    <color name="white">#ffffff</color>
+    <color name="lightGray">#ecf0f1</color>
+    <color name="lighterGray">#dde4e6</color>
+    <color name="gray">#aaaaaa</color>
+    <color name="darkGray">#333333</color>
+
+    <color name="dayCardBackground">@color/lighterGray</color>
+    <color name="dayTextColor">@color/gray</color>
+    <color name="activityBackground">@color/lightGray</color>
+
+    <color name="semiTransparent">#6aaa</color>
+</resources>
